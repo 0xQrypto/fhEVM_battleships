@@ -88,6 +88,7 @@
     "faucet": "node getFromFaucet.js"
   },
   "dependencies": {
+    "fhenix-hardhat-plugin": "^0.1.1",
     "ganache-cli": "^6.12.2"
   }
 }
